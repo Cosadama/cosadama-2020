@@ -2,7 +2,7 @@
 
 
 
-![cosadama](./COSADAMA_LOGO(300).png)
+![cosadama](COSADAMA_images/COSADAMA_LOGO(300).png)
 
 ## __Cosadama 코사다마__
 
