@@ -40,3 +40,5 @@ Super python beginner , a person who has just begun the python or says 'Python i
 * *Week 2* [[PROJECT] Analysis of CCTVs in Seoul](2020_SPRING_RUSH/week2/week2_2_CCTV_in_Seoul.ipynb)
 * *Week 3* [[PROJECT] Analysis of Crimes in Seoul](2020_SPRING_RUSH/week3/week3_3_Crime_in_Seoul.ipynb)
 * *Week 4* [Web-crawling & Regular Expression - News titles crawling](2020_SPRING_RUSH/week4/week4_4.1_crawling_&_regularexpression.ipynb)
+* *Week 5* [[PROJECT] Best Sandwitches Rank in Chicago](2020_SPRING_RUSH/week5/week5_5.1_best_sandwitches_rank_Chicago.ipynb), [[mini-PROJECT]Naver Movie Crawling](2020_SPRING_RUSH/week5/week5_5.2_naver_movies_rank.ipynb)
+
