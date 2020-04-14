@@ -45,3 +45,4 @@ Super python beginner , a person who has just begun the python or says 'Python i
 * *Week 5* [[PROJECT] Best Sandwitches Rank in Chicago](2020_SPRING_RUSH/week5/week5_5.1_best_sandwitches_rank_Chicago.ipynb) /
  [[mini-PROJECT]Naver Movie Crawling](2020_SPRING_RUSH/week5/week5_5.2_naver_movies_rank.ipynb)
 * *Week 6* [[PROJECT] Fact Check: Are Self oil stations cheaper than others?](2020_SPRING_RUSH/week6/week6_6_Self_oil_station_price.ipynb)
+* *Week 7* [[PROJECT] Population Crisis in Korea](2020_SPRING_RUSH/week7/week7_7_Population_crisis_in_Korea.ipynb)
