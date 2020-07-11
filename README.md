@@ -47,3 +47,6 @@ Super python beginner , a person who has just begun the python or says 'Python i
 * *Week 6* [[PROJECT] Fact Check: Are Self oil stations cheaper than others?](2020_SPRING_RUSH/week6/week6_6_Self_oil_station_price.ipynb)
 * *Week 7* [[PROJECT] Population Crisis in Korea](2020_SPRING_RUSH/week7/week7_7_Population_crisis_in_Korea.ipynb)
 * *Week 8* [[PROJECT] 19th presidential election analysis](2020_SPRING_RUSH/week8/week8_19th_presidential_election_analysis.ipynb)
+* *Week 9* [Network Analysis with Gephi&NetworkX](2020_SPRING_RUSH/week9/week9_network_analysis_with_Gephi_networkx.ipynb)
+* *Week 10* [Introduction to KoNLPy](2020_SPRING_RUSH/week10/코사다마_한글_자연어_처리_기초.ipynb) / [[PROJECT] BlueHouse Petition Analysis](2020_SPRING_RUSH/week10/코사다마_[프로젝트]청와대_청원으로_하는_한글_자연어_처리.ipynb)
+
