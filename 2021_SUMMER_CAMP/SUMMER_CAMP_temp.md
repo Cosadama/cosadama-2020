@@ -1,1 +1,0 @@
-# SUMMER CAMP PLAN
