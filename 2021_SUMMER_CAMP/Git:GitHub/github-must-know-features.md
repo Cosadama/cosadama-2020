@@ -32,9 +32,9 @@ fork한 레포지토리에서의 변경 사항(커밋)을 오리지널 레포지
 
 ### merge
 pull request를 오리지널 레포지토리에 적용하는 기능입니다. 당연한 이야기지만, merge하기 위해서는 해당 레포지토리에 대한 권한(access)이 있어야 합니다. pull request에 대한 merge는 결국 commit and push니까요.
-![check pull request](![create pull request](./contents/checkpr.png))
+![create pull request](./contents/checkpr.png)
 pull request가 생성된 경우 오리지널 레포지토리의 pull requests 섹션에 알림이 뜹니다.
-![merge pull request](![create pull request](./contents/mergepr.png))
+![create pull request](./contents/mergepr.png)
 클릭해보면 pull request에 대한 내용이 있고, 오리지널 레포지토리의 기존 파일들과 충돌하지의 여부를 알려주네요. 저희는 충돌, 에러 가능성이 없다고 하니 merge해줄게요.
-![pull request merged](![create pull request](./contents/mergedpr.png))
+![create pull request](./contents/mergedpr.png)
 merge 이후 보라색으로 merged, 아래에 pull request closed가 나타난다면 pull request에 대한 merge가 성공적으로 완료되었다는 뜻입니다.
