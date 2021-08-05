@@ -2,12 +2,12 @@
 
 
 
-![cosadama](COSADAMA_images/COSADAMA_LOGO(300).png)
+![cosadama](COSADAMA_images/logo_long(2021).png)
 
-## __Cosadama 코사다마__
+## __COSADAMA__
 
 ```
-The best way to do something is to do with someone to produce something.
+The best way to do something is to produce something with someone.
 ```
 
 Cosadama(2020-01-13 ~) is the programming boot camp by students of Chung-Ang university, Seoul, Korea. The group name "Cosadama" comes from the compound of  "CODING" and **"好事多魔"** which is a proverb meaning that you need to hard work to go right way and sounds 'ho-sa-da-ma'. The name means that we all finally go right way(maybe could be top programmer) after taking all the struggles, such as endless errors, back-ache etc. Then, Look forward to what we are!
@@ -25,7 +25,7 @@ Super python beginner , a person who has just begun the python or says 'Python i
 * Applied hands-on data analysis or even development.
 * Learn from each other
 
-## __Curriculum(2020)__
+## __Curriculum (2021)__
 
 ### [Python Basic Grammar](2019-2020_WINTER/코사다마_파이썬기초문법스터디_커리큘럼.pdf)
 * *Week 1* [What is python?](2019-2020_WINTER/week1/코사다마_스터디_1주차_0113.pdf)
@@ -49,3 +49,20 @@ Super python beginner , a person who has just begun the python or says 'Python i
 * *Week 8* [[PROJECT] 19th presidential election analysis](2020_SPRING_RUSH/week8/week8_19th_presidential_election_analysis.ipynb)
 * *Week 9* [Network Analysis with Gephi&NetworkX](2020_SPRING_RUSH/week9/week9_network_analysis_with_Gephi_networkx.ipynb)
 * *Week 10* [Introduction to KoNLPy](2020_SPRING_RUSH/week10/코사다마_한글_자연어_처리_기초.ipynb) / [[PROJECT] BlueHouse Petition Analysis](2020_SPRING_RUSH/week10/코사다마_[프로젝트]청와대_청원으로_하는_한글_자연어_처리.ipynb)
+
+### [GitHub Guides](#)
+* *Pre-Curriculum* [Learn How to Write a README file - markdown](#)
+* *Pre-Curriculum* [Install Git on Mac](2021_SUMMER_CAMP/Git:GitHub/git-install-mac.md)
+* *Pre-Curriculum* [Install Git on Windows](2021_SUMMER_CAMP/Git:GitHub/git-install-windows.md)
+* *Session 1* [What is Git?](2021_SUMMER_CAMP/Git:GitHub/git.md)
+* *Session 2* [Stage Concept](2021_SUMMER_CAMP/Git:GitHub/stage-concept.md)
+* *Session 3* [Git Commands for CLI](2021_SUMMER_CAMP/Git:GitHub/git-commands.md)
+* *Session 4* [Git Commands on Actual Work]()
+* *Post-Curriculum* [Git Commands Cheat Sheet](#)
+* *Post-Curriculum* [FAQ About Git/GitHub](#)
+
+### [Basic SQL](#)
+*Soon Will Be Updated*
+
+### [Advanced WebCrawling](#)
+*Soon Will Be Updated*
