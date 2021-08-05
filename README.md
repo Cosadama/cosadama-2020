@@ -50,16 +50,17 @@ Super python beginner , a person who has just begun the python or says 'Python i
 * *Week 9* [Network Analysis with Gephi&NetworkX](2020_SPRING_RUSH/week9/week9_network_analysis_with_Gephi_networkx.ipynb)
 * *Week 10* [Introduction to KoNLPy](2020_SPRING_RUSH/week10/코사다마_한글_자연어_처리_기초.ipynb) / [[PROJECT] BlueHouse Petition Analysis](2020_SPRING_RUSH/week10/코사다마_[프로젝트]청와대_청원으로_하는_한글_자연어_처리.ipynb)
 
-### [GitHub Guides](#)
-* *Pre-Curriculum* [Learn How to Write a README file - markdown](#)
+### [GitHub Guides](2021_SUMMER_CAMP/Git:GitHub)
+* *Pre-Curriculum* [Learn How to Write a README file - markdown](https://cosadama.notion.site/b1f2d31abeae47e1ae3f49b28abfa897)
 * *Pre-Curriculum* [Install Git on Mac](2021_SUMMER_CAMP/Git:GitHub/git-install-mac.md)
 * *Pre-Curriculum* [Install Git on Windows](2021_SUMMER_CAMP/Git:GitHub/git-install-windows.md)
 * *Session 1* [What is Git?](2021_SUMMER_CAMP/Git:GitHub/git.md)
 * *Session 2* [Stage Concept](2021_SUMMER_CAMP/Git:GitHub/stage-concept.md)
 * *Session 3* [Git Commands for CLI](2021_SUMMER_CAMP/Git:GitHub/git-commands.md)
-* *Session 4* [Git Commands on Actual Work]()
-* *Post-Curriculum* [Git Commands Cheat Sheet](#)
-* *Post-Curriculum* [FAQ About Git/GitHub](#)
+* *Session 4* [GitHub Features](2021_SUMMER_CAMP/Git:GitHub/github-must-know-features.md)
+* *Session 5* [Git Commands on Actual Work](2021_SUMMER_CAMP/Git:GitHub/git-situations.md)
+* *Post-Curriculum* [Git Commands Cheat Sheet](https://cosadama.notion.site/Git-Cheat-Sheet-72faa5d1d29b45b88e7dc5eca830debc)
+* *Post-Curriculum* [FAQ About Git/GitHub](https://cosadama.notion.site/FAQ-Git-GitHub-90f9888bc76740c08d851d9b8eaae4b4)
 
 ### [Basic SQL](#)
 *Soon Will Be Updated*
