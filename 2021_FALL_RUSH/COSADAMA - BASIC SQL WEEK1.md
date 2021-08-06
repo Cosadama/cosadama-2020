@@ -24,12 +24,12 @@ SQL을 배우는 이유를 알기 위해서는 우선 데이터 산업 전체에
 | 데이터 저장 공간 절약|
 
 전체적인 데이터 과학 분야에서 데이터를 수집하고 저장하는 작업은 초기 파트에 해당합니다. 이때까지 파이썬을 공부하면서 만들어진 데이터를 분석해서 인사이트를 찾거나, 시각화하는 작업 이전에 이루어지는 작업이라고 볼 수 있습니다. 
-![img](./contents/img_1)
+![img](./contents/img_1.png)
 
 자! 이제 우리가 배울 MySQL에 대해서 살짝 알아봅시다. 
 아래의 표는 2021년 기준 데이터 베이스 랭킹을 보여주는데, 관계형 데이터 베이스 (Relational Data Base Management System)계열의 **Oracle**(대용량 데이터 저장에 많이 사용되는 안전한 DB), **MySQL**(Oracle사에서 라이선스를 소유), RBDMS보다 덜 제한적인 형식을 가져 최근 빅데이터 시대와 함께 떠오르는 NoSQL 계열의 **Cassandra, MongoDB, Redis, Hive** 등 데이터 베이스 프로그램의 종류는 굉장히 다양합니다. 
 
-![img](./contents/img_2)
+![img](./contents/img_2.png)
 이 중, 우리가 배울 **MySQL**은 대표적인 오픈소스 관계형 데이터 베이스 프로그램으로, 중소형 데이터를 저장하고 관리하기에 적합한 프로그램입니다. 
 RDBMS계열에 속하는 데이터 베이스 프로그램들을 유사한 명령어들을 사용하기 때문에 표준 SQL 언어 하나를 공부하면 대부분 다룰 수 있습니다. 우리는 가장 대중적으로 사용되는 MySQL을 활용하여 데이터 베이스 공부를 진행할 예정입니다.
 
@@ -72,11 +72,11 @@ DB에서 사용하는 KEY는 기본적으로 TABLE의 열 (COLUMN)에 해당하�
 
 PRIMARY KEY와 FOREIGN KEY에 대해서 조금 더 자세히 알아보도록 하겠습니다. 
 예컨대 이러한 상품과 관련된 'PRODUCT' 테이블이 있다고 합시다.
-![img](./contents/img_3)
+![img](./contents/img_3.png)
 CATEGORY, TYPE, BRAND, PRODUCT_NAME, PRICE는 유일하지 않기 때문에 PRIMARY KEY가 되기에 부적절합니다. 따라서 각 ROW가 완벽히 유일한 컬럼인 'PRODUCT_CODE'를 PK로 설정해 줄 수 있습니다.
 
 이번엔 판매와 관련된 'SALES' 테이블이 있다고 합시다.
-![img](./contents/img_4)
+![img](./contents/img_4.png)
 고객정보를 뜻하는 MEM_NO, 주문한 제품을 의미하는 PRODUCT_CODE는 여러 주문을 할 수 있으니 PK로 적절하지 않습니다. ORDER_DATE, SALES_QTY도 PK로는 부적절 합니다. 이때, 'PRODUCT' TABLE의 PK였던 PRODUCT_CODE 컬럼이 'SALES' TABLE에도 사용되고 있습니다. 하지만 PK역할을 하지는 않죠? 이렇게 **다른 테이블의 PK를 가져다가 참조하는 경우를 FOREIGN KEY라고 합니다**. FK인 경우에는 꼭 유일하지 않아도 괜찮습니다.
 
 복잡해 보이는 PK, FK를 사용하는 이유는 무엇일까요? 바로 모든 데이터를 한 테이블에 저장하지 않기 위해서입니다. 만약 제품, 고객, 판매와 관련된 모든 데이터를 한 테이블에 저장한다면 어떻게 될까요? 고객 입장에서 어떤 제품을, 몇 개, 몇 시에 주문했는지, 전화번호, 주소는 어떻게 되는지  등등 중복되는 값이 너무 많을 것 같습니다. 
